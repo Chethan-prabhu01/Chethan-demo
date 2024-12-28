@@ -1,3 +1,3 @@
 # Chethan-demo
 this is my first git respository.<br>
-Author-Chethan Prabhu
+Author-Chethan_Prabhu
